@@ -1,0 +1,26 @@
+text,label
+Your account has been suspended. Verify now at http://phish.example/verify,fake
+Important: Reset your password immediately by visiting http://phish.example/reset,fake
+Congratulations! You won a prize. Claim here: http://phish.example/prize,fake
+URGENT: Unauthorized login attempt. Confirm here: http://phish.example/auth,fake
+Payment failed. Update your billing: http://phish.example/billing,fake
+"Dear user, your invoice is attached. Please review.",real
+"Hi team, meeting moved to 3pm — see attached agenda.",real
+Welcome to our newsletter — here are this week’s highlights.,real
+Your order #12345 has shipped. Track it in your account.,real
+Reminder: Project deadline tomorrow. Please upload deliverables.,real
+Hello — can we reschedule our call to Friday?,real
+Hi — great to meet you yesterday. Follow-up items inside.,real
+Update: company policy change effective next month.,real
+Account notice: your subscription renews on 01-Oct.,real
+Invitation: Join our webinar next Thursday — register here.,real
+Please confirm your appointment for 10/15 at 11:00 AM.,real
+Security alert: new sign-in from a recognized device — no action needed.,real
+FYI: Quarterly report attached for your review.,real
+"Hello friend, long time no see — want to grab coffee?",real
+Thanks for your purchase! Your receipt is attached.,real
+You won $5000! Redeem at http://phish.example/win,fake
+Verify your bank details now: http://phish.example/bank,fake
+Lowest mortgage rates — Apply now http://phish.example/mortgage,fake
+Confirm your delivery at http://phish.example/track,fake
+Reset your cloud password here http://phish.example/cloud-reset,fake

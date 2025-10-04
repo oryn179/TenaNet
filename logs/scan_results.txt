@@ -1,0 +1,81 @@
+----------------------------------------
+2025-09-26 12:27:02 | SCRIPT: email_detect.py | EXIT: 0
+TENANET Email Detection (demo)
+
+Enter email text to scan: 
+[SCAN-RESULT] No input provided (interrupted).
+----------------------------------------
+2025-09-26 15:44:26 | SCRIPT: email_detect.py | EXIT: 0
+TENANET Email Detection (demo)
+
+Enter email text to scan: 
+[SCAN-RESULT] No input provided (interrupted).
+TENANET Email Detection (demo)
+
+Enter email text to scan: TENANET SMS Detection (demo)
+
+Enter SMS text to scan: 
+[Result] ✅ SMS looks safe.
+[SCAN-RESULT] SMS | ✅ SMS looks safe.
+TENANET Email Detection (demo)
+
+Enter email text to scan: 
+[Result] ✅ Email looks safe (short message)
+[SCAN-RESULT] EMAIL | ✅ Email looks safe (short message)
+TENANET SMS Detection (demo)
+
+Enter SMS text to scan: TENANET Email Detection (demo)
+
+Enter email text to scan: 
+[Result] ✅ Email looks safe (short message)
+[SCAN-RESULT] EMAIL | ✅ Email looks safe (short message)
+TENANET SMS Detection (demo)
+
+Enter SMS text to scan: 
+[Result] ✅ SMS looks safe.
+[SCAN-RESULT] SMS | ✅ SMS looks safe.
+TENANET URL Scam Detection (demo)
+
+Enter a URL to scan: 
+[Result] ⚠️ Suspicious URL Detected: https://freegift.phish.example/claim
+[SCAN-RESULT] URL | ⚠️ Suspicious URL Detected: https://freegift.phish.example/claim
+TENANET Email Detection (demo)
+
+Enter email text to scan: 
+[Result] ✅ Email looks safe.
+[SCAN-RESULT] EMAIL | ✅ Email looks safe.
+TENANET Email Detection (demo)
+
+Enter email text to scan: 
+[Result] ⚠️ Suspicious Email Detected!
+[SCAN-RESULT] EMAIL | ⚠️ Suspicious Email Detected!
+TENANET SMS Detection (demo)
+
+Enter SMS text to scan: 
+[Result] ⚠️ Suspicious SMS Detected!
+[SCAN-RESULT] SMS | ⚠️ Suspicious SMS Detected!
+TENANET SMS Detection (demo)
+
+Enter SMS text to scan: 
+[Result] ⚠️ Suspicious SMS Detected!
+[SCAN-RESULT] SMS | ⚠️ Suspicious SMS Detected!
+TENANET SMS Detection (demo)
+
+Enter SMS text to scan: 
+[Result] ⚠️ Suspicious SMS Detected!
+[SCAN-RESULT] SMS | ⚠️ Suspicious SMS Detected!
+TENANET SMS Detection (demo)
+
+Enter SMS text to scan: 
+[Result] ✅ SMS looks safe.
+[SCAN-RESULT] SMS | ✅ SMS looks safe.
+TENANET SMS Detection (demo)
+
+Enter SMS text to scan: 
+[Result] ✅ SMS looks safe.
+[SCAN-RESULT] SMS | ✅ SMS looks safe.
+TENANET SMS Detection (demo)
+
+Enter SMS text to scan: 
+[Result] ✅ SMS looks safe (short message)
+[SCAN-RESULT] SMS | ✅ SMS looks safe (short message)
