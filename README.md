@@ -16,6 +16,7 @@ git clone https://github.com/Oryn179/TenaNet.git
 cd TenaNet
 chmod +x tenanet.sh
 ./tenanet.sh
+---
 ## ✨ Features  
 
 - 📧 **Email Scam Detection**  
