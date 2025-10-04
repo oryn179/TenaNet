@@ -7,6 +7,7 @@ Scammers are everywhere 👾 — sending fake emails, SMS, and links every singl
 That’s why we built **TenaNet**, your cyber buddy 🤖 that helps you detect what’s **FAKE 🚫** and what’s **REAL ✅**.  
 
 ---
+
 ## ⚡ Installation & Usage  
 
 Clone this repo and run TenaNet:  
